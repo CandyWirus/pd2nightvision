@@ -1,0 +1,22 @@
+{
+	"menu_id": "niggervision",
+	"parent_menu_id": "blt_options",
+	"title": "niggervision",
+	"description": "niggervisiondescription",
+	"items": [
+		{
+			"type": "multiple_choice",
+			"id": "niggerVisionChoice",
+			"title": "niggervisioncolor",
+			"description": "niggervisioncolordescription",
+			"callback": "callback_niggerColor",
+			"items": [
+				"niggervisioncolordisabled",
+				"niggervisioncolorgreen",
+				"niggervisioncolorblue"
+			],
+			"value": "color",
+			"default_value": 2,
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"niggervision": "Night Vision",
+	"niggermenu": "Night Vision",
+	"niggervisiondescription": "Change night vision settings",
+	"niggervisioncolor": "Color",
+	"niggervisioncolordescription": "The color of the custom night vision",
+	"niggervisioncolordisabled": "Disabled",
+	"niggervisioncolorgreen": "Green",
+	"niggervisioncolorblue": "Blue"
+}
